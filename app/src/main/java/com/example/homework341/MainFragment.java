@@ -35,19 +35,19 @@ private ContactAdapter contactAdapter;
 
     private void loadContacts() {
         contacts = new ArrayList<>();
-        contacts.add("Мама");
-        contacts.add("Папа");
-        contacts.add("Рашид");
-        contacts.add("Арман");
-        contacts.add("Бексултан");
-        contacts.add("Матай");
-        contacts.add("Медина");
-        contacts.add("Рустам");
-        contacts.add("Дастан");
-        contacts.add("Арстан");
-        contacts.add("Дима");
-        contacts.add("Бабушка");
-        contacts.add("Дедушка");
+        contacts.add("89453842745");
+        contacts.add("0555214835");
+        contacts.add("0707473528");
+        contacts.add("0505036582");
+        contacts.add("0771657365");
+        contacts.add("0666647365");
+        contacts.add("89234753654");
+        contacts.add("0705746382");
+        contacts.add("0772758354");
+        contacts.add("0504756381");
+        contacts.add("0555846372");
+        contacts.add("0800857463");
+        contacts.add("89234124659");
 
 
     }
